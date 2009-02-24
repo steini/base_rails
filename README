@@ -1,8 +1,4 @@
-shop
-====
+== Base Rails app
 
-todos
-=====
+This is basic rails application with rspec, rspec-rails, exception_notifier and capistrano.
 
-- create Database Desing
-- create a blank rails app
