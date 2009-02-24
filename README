@@ -1,4 +1,9 @@
 == Base Rails app
 
-This is basic rails application with rspec, rspec-rails, exception_notifier and capistrano.
+Basic Rails app with Rails Edge (2.3.0). Don't forget to add a symbolic link
+to your local rails (ln -s /path/to/rails vendor/rails).
+
+rspec, rspec-rails, exception_notifier Plugins are installed via git submodules.
+
+capify was executed.
 
